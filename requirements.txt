@@ -1,0 +1,13 @@
+Flask==0.12.2
+Flask-Cors==3.0.2
+Flask-SQLAlchemy==2.4.1
+future==0.16.0
+gunicorn==19.9.0
+Jinja2==2.9.6
+jmespath==0.9.3
+SQLAlchemy==1.1.9
+virtualenv==16.7.5
+websocket-client==0.56.0
+Werkzeug==0.12.2
+
+
